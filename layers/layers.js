@@ -24,7 +24,7 @@ maxResolution:28004.466152261964,
 
             
             source: new ol.source.XYZ({
-    attributions: ' &middot; <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, CC-BY-SA</a>',
+    attributions: ' ',
                 url: 'http://tile.openstreetmap.org/{z}/{x}/{y}.png'
             })
         });
